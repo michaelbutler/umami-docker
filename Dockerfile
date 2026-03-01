@@ -1,4 +1,4 @@
-FROM ghcr.io/umami-software/umami:postgresql-latest
+FROM ghcr.io/umami-software/umami:3.03
 
 RUN echo "Setting up umami"
 
